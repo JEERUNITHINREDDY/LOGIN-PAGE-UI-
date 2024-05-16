@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image{
+    background: url(parul\ gate.webp);
+    position: absolute;
+    height: 100vh;
+    width: 70%;
+    background-size: auto;
+}
+
+.login{
+    height: 100px;
+    display: flex;
+    margin-left: 72%;
+    position: absolute;
+    left: 50px;
+    /* height: 100vh; */
+    width: 300px;
+    top: 200px;
+}
+
+.btn{
+    background-color: rgb(72, 183, 72);
+    border-radius: 1px;
+    height: 35px;
+    width: 70px;
+}
+
+.forget{
+    background-color: red;
+    height: 35px;
+    width: 140px;
+}
+
+.google i{
+    margin: 10px;
+}
+
+.google{
+    width: 200px;
+    border: none;
+}
+
+.logo img{
+    margin-left: 73.5%;
+    top: 300px;
+    height: 290px;
+}
+
+h6 i{
+    font-size: 10px;
+}
+
